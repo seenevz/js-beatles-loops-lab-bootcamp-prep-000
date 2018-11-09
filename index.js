@@ -1,7 +1,7 @@
-
+var beatles = []
 
 function theBeatlesPlay (musicians, instruments) {
-  var beatles = []
+  //var beatles = []
 
   for(musicians[0];musicians.lenght;musicians++) {
     beatles.push(musicians+instruments)

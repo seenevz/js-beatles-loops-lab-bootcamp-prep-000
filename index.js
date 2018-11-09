@@ -1,5 +1,4 @@
 
-
 function theBeatlesPlay (musicians, instruments) {
   var beatles = []
 
@@ -8,4 +7,11 @@ function theBeatlesPlay (musicians, instruments) {
   }
 
   return beatles
+}
+
+function johnLennonFacts (facts) {
+  while (var i =0, l= facts.lenght; i<l) {
+  facts.push(facts[i]+ " !!!")
+  }
+  
 }

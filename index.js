@@ -9,5 +9,3 @@ function theBeatlesPlay (musicians, instruments) {
   console.log(beatles)
   return beatles
 }
-
-console.log(beatles)

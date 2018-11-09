@@ -13,7 +13,7 @@ function johnLennonFacts (facts) {
   const newFacts = []
 
   let i = 0
-  while (i < l ) {
+  while (i < facts.length ) {
   newFacts.push(facts[i] + "!!!")
   i++
   }

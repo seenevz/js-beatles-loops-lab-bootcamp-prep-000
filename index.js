@@ -6,6 +6,6 @@ function theBeatlesPlay (musicians, instruments) {
   for(let i = musicians[0];i = musicians.lenght; i = musicians[i++]) {
     beatles.push(musicians[i]+instruments[i])
   }
-  console.log(beatles)
+  
   return beatles
 }
